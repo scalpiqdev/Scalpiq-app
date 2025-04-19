@@ -1,8 +1,10 @@
 export default function Journal() {
+  const today = new Date().toLocaleDateString();
+
   return (
     <div className="container">
-      <h2>Trade Journal & Replay</h2>
-      <p>Review, tag, and reflect on today's performance.</p>
+      <h2>Trade Journal for {today}</h2>
+      <p>No trades logged yet. Start your session to begin tracking.</p>
     </div>
   );
 }
