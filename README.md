@@ -1,19 +1,19 @@
-# ScalpIQ App
+# ScalpIQ Full App
 
-This is the official ScalpIQ web application built in Next.js.
+This is the full ScalpIQ Next.js app with all routes, nav, and placeholder modules.
 
-## Getting Started
+## Setup
 
-Install dependencies:
+1. Install dependencies:
 
 ```bash
 npm install
 ```
 
-Run the development server:
+2. Start the development server:
 
 ```bash
 npm run dev
 ```
 
-Visit [http://localhost:3000](http://localhost:3000) in your browser.
+3. Visit [http://localhost:3000](http://localhost:3000)
