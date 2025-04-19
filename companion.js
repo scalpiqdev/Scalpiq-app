@@ -1,8 +1,8 @@
 export default function Companion() {
   return (
-    <div style={{ padding: '2rem' }}>
+    <div className="container">
       <h2>Companion Plan</h2>
-      <p>A+ Setup Detected</p>
+      <p>A+ Setup Identified. Entry/Exit zones configured.</p>
     </div>
   );
 }

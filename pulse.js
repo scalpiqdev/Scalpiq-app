@@ -1,8 +1,8 @@
 export default function Pulse() {
   return (
-    <div style={{ padding: '2rem' }}>
+    <div className="container">
       <h2>ScalpIQ Pulse</h2>
-      <p>Top 5 Tickers of the Day</p>
+      <p>Today’s Top 5 Watchlist Tickers</p>
     </div>
   );
 }
