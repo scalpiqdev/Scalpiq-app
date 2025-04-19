@@ -1,0 +1,1 @@
+export const isAdmin = (req) => true;
